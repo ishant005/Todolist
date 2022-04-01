@@ -1,2 +1,2 @@
-# Todolist
+# practice-app
 Created with CodeSandbox
